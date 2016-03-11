@@ -4,9 +4,8 @@ docs_dir: sources
 repo_url: https://github.com/squillace/azure-content-pr
 theme: material
 pages:
-
-- Azure and Linux VMs: 'articles/virtual-machines/virtual-machines-linux-azure-overview.md'
-- Get Started: 'articles/xplat-cli-install.md'
+- 'Azure and Linux VMs': 'articles/virtual-machines/virtual-machines-linux-azure-overview.md'
+- 'Get Started': 'articles/xplat-cli-install.md'
     - 'Install the Azure CLI': 'articles/xplat-cli-install.md'
     - 'Create a VM for dev/test': 'articles/virtual-machines/virtual-machines-linux-quick-create-cli.md'
     - 'Create SSH keys': 'articles/virtual-machines/virtual-machines-linux-mac-create-ssh-keys.md'
@@ -71,20 +70,12 @@ pages:
     - 'Container management through the web UI': 'articles/container-service/container-service-mesos-marathon-ui.md'
     - 'Container management with the REST API': 'articles/container-service/container-service-mesos-marathon-rest.md'
     - 'Docker swarm on Azure Container Service': 'articles/container-service/container-service-docker-swarm.md'
-    
-    
 - Networking: 
-    - 'Design Customization': 'customize/design.md'
- 
 - Storage:
-    - 'SCIM UMA How-to': 'integrate/scimuma-howto.md'
-
 - Troubleshooting and Support:
     - 'Troubleshoot SSH connections': 'article/virtual-machines/virtual-machines-linux-troubleshoot-ssh-connection.md'
 	- 'Troubleshoot application access': 'article/virtual-machines/virtual-machines-linux-troubleshoot-app-connection.md'
 	- 'Troubleshoot VM extension failures': 'article/virtual-machines/virtual-machines-linux-extensions-troubleshoot.md'
 	- 'Troubleshoot allocation failures': 'article/virtual-machines/virtual-machines-linux-allocation-failure.md'
     - 'Redeploy VM to a new Azure node': 'articles/virtual-machines/virtual-machines-linux-redeploy-to-new-node.md'
-
 - Reference:
-    - 'Tuning LDAP, Tomcat': 'fine-tuning/index.md'
