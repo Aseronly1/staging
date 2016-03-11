@@ -1,6 +1,7 @@
 site_name: Documentation for Linux and BSD on Azure
 site_description: Documenation for Linux and BSD on Azure.
 repo_url: https://github.com/squillace/staging
+docs_dir: articles
 theme: readthedocs
 pages:
 - Azure and Linux VMs: 
