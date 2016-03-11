@@ -56,7 +56,8 @@ pages:
         - 'Enable or Disable VM monitoring': 'articles/virtual-machines/virtual-machines-linux-vm-monitoring.md'
         - 'Deploy update infrastructure for Red Hat Enterprise Linux': 'articles/virtual-machines/virtual-machines-linux-update-infrastructure-redhat.md'
         - 'Optimize your Linux VM': 'articles/virtual-machines/virtual-machines-linux-optimization.md'
-    - VM Extensions: 'articles/virtual-machines/virtual-machines-linux-extensions-features.md'
+    - VM Extensions: 
+        - 'Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-features.md'
         - 'Authoring Azure templates with Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-authoring-templates.md'
         - 'Linux VM extension samples': 'articles/virtual-machines/virtual-machines-linux-extensions-configuration-samples.md'
         - 'Use the CustomScript extension for Linux VMs': 'articles/virtual-machines/virtual-machines-linux-extensions-customscript.md'
@@ -70,20 +71,12 @@ pages:
     - 'Container management through the web UI': 'articles/container-service/container-service-mesos-marathon-ui.md'
     - 'Container management with the REST API': 'articles/container-service/container-service-mesos-marathon-rest.md'
     - 'Docker swarm on Azure Container Service': 'articles/container-service/container-service-docker-swarm.md'
-    
-    
 - Networking: 
-    - 'Design Customization': 'customize/design.md'
- 
 - Storage:
-    - 'SCIM UMA How-to': 'integrate/scimuma-howto.md'
-
 - Troubleshooting and Support:
     - 'Troubleshoot SSH connections': 'article/virtual-machines/virtual-machines-linux-troubleshoot-ssh-connection.md'
 	- 'Troubleshoot application access': 'article/virtual-machines/virtual-machines-linux-troubleshoot-app-connection.md'
 	- 'Troubleshoot VM extension failures': 'article/virtual-machines/virtual-machines-linux-extensions-troubleshoot.md'
 	- 'Troubleshoot allocation failures': 'article/virtual-machines/virtual-machines-linux-allocation-failure.md'
     - 'Redeploy VM to a new Azure node': 'articles/virtual-machines/virtual-machines-linux-redeploy-to-new-node.md'
-
 - Reference:
-    - 'Tuning LDAP, Tomcat': 'fine-tuning/index.md'
