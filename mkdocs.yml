@@ -1,11 +1,10 @@
 site_name: Documentation for Linux and BSD on Azure
 site_description: Documenation for Linux and BSD on Azure.
-docs_dir: sources
-repo_url: https://github.com/squillace/azure-content-pr
+repo_url: https://github.com/squillace/staging
 theme: material
 pages:
-- 'Azure and Linux VMs': 'articles/virtual-machines/virtual-machines-linux-azure-overview.md'
-- 'Get Started': 'articles/xplat-cli-install.md'
+- Azure and Linux VMs: 'articles/virtual-machines/virtual-machines-linux-azure-overview.md'
+- Get Started: 'articles/xplat-cli-install.md'
     - 'Install the Azure CLI': 'articles/xplat-cli-install.md'
     - 'Create a VM for dev/test': 'articles/virtual-machines/virtual-machines-linux-quick-create-cli.md'
     - 'Create SSH keys': 'articles/virtual-machines/virtual-machines-linux-mac-create-ssh-keys.md'
