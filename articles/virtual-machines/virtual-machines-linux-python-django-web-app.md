@@ -25,7 +25,6 @@
 
 <br>
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-rm-include.md)] Resource Manager model.
 
 
 This tutorial describes how to host a Django-based website on Microsoft 

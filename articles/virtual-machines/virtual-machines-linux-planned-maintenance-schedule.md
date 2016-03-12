@@ -20,6 +20,5 @@
 
 # How to Schedule Planned Maintenance on Azure VMs
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-classic-include.md)]
 
 [AZURE.INCLUDE [virtual-machines-common-planned-maintenance-schedule](../../includes/virtual-machines-common-planned-maintenance-schedule.md)]

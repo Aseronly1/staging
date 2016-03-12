@@ -29,7 +29,6 @@ This topic shows how to retrieve troubleshooting information through Azure Power
 
 Solutions to common errors that users encounter are also described in this topic.
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-rm-include.md)] classic deployment model. You can't create resource groups with the classic deployment model.
 
 
 ## Troubleshoot with PowerShell

@@ -19,7 +19,6 @@
 
 # Deploying Your Own Private Docker Registry on Azure
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 
 

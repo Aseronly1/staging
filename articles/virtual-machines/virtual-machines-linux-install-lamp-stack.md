@@ -21,7 +21,6 @@
 
 #Install the LAMP Stack on a Linux virtual machine in Azure
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 
 A LAMP stack consists of the following different elements:

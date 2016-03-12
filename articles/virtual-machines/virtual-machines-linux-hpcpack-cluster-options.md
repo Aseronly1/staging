@@ -18,7 +18,6 @@ ms.service="virtual-machines-linux"
 
 # Options to create and manage a Linux high performance computing (HPC) cluster in Azure with Microsoft HPC Pack
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 [AZURE.INCLUDE [virtual-machines-common-hpcpack-cluster-options](../../includes/virtual-machines-common-hpcpack-cluster-options.md)]
 

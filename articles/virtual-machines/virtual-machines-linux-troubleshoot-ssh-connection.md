@@ -22,7 +22,6 @@
 
 There could be various causes of SSH errors while trying to connect to a Linux-based Azure virtual machine. This article will help you find and correct them.
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 This article only applies to Azure virtual machines running Linux. For Azure virtual machines running Windows, see [Troubleshoot Remote Desktop connection to an Azure VM](virtual-machines-windows-troubleshoot-rdp-connection.md).
 

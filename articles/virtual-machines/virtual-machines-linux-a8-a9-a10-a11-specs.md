@@ -18,7 +18,6 @@ ms.service="virtual-machines-linux"
 
 # About using the A8, A9, A10, and A11 compute-intensive instances with Linux
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 [AZURE.INCLUDE [virtual-machines-common-a8-a9-a10-a11-specs](../../includes/virtual-machines-common-a8-a9-a10-a11-specs.md)]
 

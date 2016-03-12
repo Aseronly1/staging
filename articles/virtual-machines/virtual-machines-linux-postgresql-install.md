@@ -25,7 +25,6 @@ PostgreSQL is an advanced open-source database similar to Oracle and DB2. It inc
 In this article, you will learn how to install and configure PostgreSQL on an Azure virtual machine running Linux.
 
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 
 ## Install PostgreSQL

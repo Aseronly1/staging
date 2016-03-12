@@ -18,6 +18,5 @@
 
 # Load balancing for Azure infrastructure services#
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 [AZURE.INCLUDE [virtual-machines-common-load-balance](../../includes/virtual-machines-common-load-balance.md)]

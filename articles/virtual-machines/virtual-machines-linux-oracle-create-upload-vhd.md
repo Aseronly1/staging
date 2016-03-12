@@ -23,7 +23,6 @@
 - [Prepare an Oracle Linux 6.4+ virtual machine for Azure](#oracle6)
 - [Prepare an Oracle Linux 7.0+ virtual machine for Azure](#oracle7)
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 ## Prerequisites ##
 

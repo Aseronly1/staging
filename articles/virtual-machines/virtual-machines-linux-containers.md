@@ -22,6 +22,5 @@
 
 # Virtual Machines and Containers in Azure
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 [AZURE.INCLUDE [virtual-machines-common-and-containers](../../includes/virtual-machines-common-containers.md)]

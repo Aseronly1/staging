@@ -23,7 +23,6 @@
 
 In this article, you will learn how to install and configure MySQL on an Azure virtual machine running Linux.
 
-[AZURE.INCLUDE [learn-about-deployment-models](../../includes/learn-about-deployment-models-both-include.md)]
 
 
 ##Install MySQL on your virtual machine
