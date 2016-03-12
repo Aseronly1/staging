@@ -62,7 +62,7 @@ pages:
     - 'Use the Docker VM extension': 'articles/virtual-machines/virtual-machines-linux-dockerextension.md'
     - 'AzureLogCollector VM extension': 'articles/virtual-machines/virtual-machines-linux-log-collector-extension.md'
 - Networking:
-    - 'Azure Networking Overview': 'articles/virtual-networks/virtual-networks-overview.md'
+    - 'Azure Networking Overview': 'articles/virtual-network/virtual-networks-overview.md'
 - Storage:
     - 'Azure Storage Overview': 'articles/storage/storage-azure-cli.md'
 - Troubleshooting and Support:
