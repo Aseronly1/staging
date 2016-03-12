@@ -19,10 +19,6 @@
 
 # Linux VM extension configuration samples
 
-> [AZURE.SELECTOR]
-- [PowerShell - Template](virtual-machines-windows-extensions-configuration-samples.md)
-- [CLI - Template](virtual-machines-linux-extensions-configuration-samples.md)
-
 <br> 
 
 
