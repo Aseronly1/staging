@@ -71,4 +71,4 @@ pages:
     - 'Troubleshoot VM extension failures': 'article/virtual-machines/virtual-machines-linux-extensions-troubleshoot.md'
     - 'Troubleshoot allocation failures': 'article/virtual-machines/virtual-machines-linux-allocation-failure.md'
     - 'Redeploy VM to a new Azure node': 'articles/virtual-machines/virtual-machines-linux-redeploy-to-new-node.md'
-- Reference:
+
