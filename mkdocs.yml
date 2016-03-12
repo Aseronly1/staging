@@ -15,8 +15,8 @@ pages:
     - 'Create and upload a custom VM': 'articles/virtual-machines/virtual-machines-linux-create-upload-generic.md'
     - 'Deploy popular application frameworks by using Azure Resource Manager templates': 'articles/virtual-machines/virtual-machines-linux-app-frameworks.md'
     - 'Deploy VMs using Azure templates': 'articles/virtual-machines/virtual-machines-linux-cli-deploy-templates.md'
-    - 'Capture VM images in Azure': 'article/virtual-machines/virtual-machines-linux-capture-image.md'    
-    - 'Find VM images to use in Azure': 'article/virtual-machines/virtual-machines-linux-cli-ps-findimage.md'
+    - 'Capture VM images in Azure': 'articles/virtual-machines/virtual-machines-linux-capture-image.md'    
+    - 'Find VM images to use in Azure': 'articles/virtual-machines/virtual-machines-linux-cli-ps-findimage.md'
     - 'Disable SSH passwords on your Linux VM': 'articles/virtual-machines/virtual-machines-linux-mac-disable-ssh-password-usage.md' 
 - Tutorials:
     - 'Deploy Jupyter notebook': 'articles/virtual-machines/virtual-machines-linux-jupyter-notebook.md'
@@ -66,9 +66,9 @@ pages:
 - Storage:
     - 'Azure Storage Overview': 'articles/storage/storage-azure-cli.md'
 - Troubleshooting and Support:
-    - 'Troubleshoot SSH connections': 'article/virtual-machines/virtual-machines-linux-troubleshoot-ssh-connection.md'
-    - 'Troubleshoot application access': 'article/virtual-machines/virtual-machines-linux-troubleshoot-app-connection.md'
-    - 'Troubleshoot VM extension failures': 'article/virtual-machines/virtual-machines-linux-extensions-troubleshoot.md'
-    - 'Troubleshoot allocation failures': 'article/virtual-machines/virtual-machines-linux-allocation-failure.md'
+    - 'Troubleshoot SSH connections': 'articles/virtual-machines/virtual-machines-linux-troubleshoot-ssh-connection.md'
+    - 'Troubleshoot application access': 'articles/virtual-machines/virtual-machines-linux-troubleshoot-app-connection.md'
+    - 'Troubleshoot VM extension failures': 'articles/virtual-machines/virtual-machines-linux-extensions-troubleshoot.md'
+    - 'Troubleshoot allocation failures': 'articles/virtual-machines/virtual-machines-linux-allocation-failure.md'
     - 'Redeploy VM to a new Azure node': 'articles/virtual-machines/virtual-machines-linux-redeploy-to-new-node.md'
 
