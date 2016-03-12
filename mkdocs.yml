@@ -24,7 +24,7 @@ pages:
     - 'Deploy a 3-node Deis cluster': 'articles/virtual-machines/virtual-machines-linux-deis-cluster.md'
     - 'Deploy and manage an HPC cluster with Microsoft HPC Pack': 'articles/virtual-machines/virtual-machines-linux-hpcpack-cluster-options.md'
     - 'Deploy MySQL VM': 'articles/virtual-machines/virtual-machines-linux-mysql-install.md'
-    - 'Deploy and configure PostgreSQL on a Linux VM': 'artiles/virtual-machines/virtual-machines-linux-postgresql-install.md'
+    - 'Deploy and configure PostgreSQL on a Linux VM': 'articles/virtual-machines/virtual-machines-linux-postgresql-install.md'
     - 'Deploy Django Hello World web app': 'articles/virtual-machines/virtual-machines-linux-python-django-web-app.md'
     - 'Testing SAP NetWeaver on SUSE Linux': 'articles/virtual-machines/virtual-machines-linux-sap-on-suse-quickstart.md'
 - Azure VM Concepts:
