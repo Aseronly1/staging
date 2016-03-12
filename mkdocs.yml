@@ -36,7 +36,7 @@ pages:
     - 'VM Sizes': 'articles/virtual-machines/virtual-machines-linux-sizes.md'
     - 'Tag a VM': 'articles/virtual-machines/virtual-machines-linux-tag.md'
     - 'Autoscale VMs with Scale Sets': 'articles/virtual-machines/virtual-machines-linux-cli-vmss-create.md'
-    - 'Azure Resource Groups': 'articles/articles/resource-group-overview.md'
+    - 'Azure Resource Groups': 'articles/resource-group-overview.md'
 - Create and Upload VHDs for Azure:
     - 'Prepare a Debian VHD': 'articles/virtual-machines/virtual-machines-linux-debian-create-upload-vhd.md'
     - 'Prepare an Ubuntu VHD': 'articles/virtual-machines/virtual-machines-linux-create-upload-ubuntu.md'
