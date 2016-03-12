@@ -65,8 +65,8 @@ pages:
 - Storage:
 - Troubleshooting and Support:
     - 'Troubleshoot SSH connections': 'article/virtual-machines/virtual-machines-linux-troubleshoot-ssh-connection.md'
-	- 'Troubleshoot application access': 'article/virtual-machines/virtual-machines-linux-troubleshoot-app-connection.md'
-	- 'Troubleshoot VM extension failures': 'article/virtual-machines/virtual-machines-linux-extensions-troubleshoot.md'
-	- 'Troubleshoot allocation failures': 'article/virtual-machines/virtual-machines-linux-allocation-failure.md'
+    - 'Troubleshoot application access': 'article/virtual-machines/virtual-machines-linux-troubleshoot-app-connection.md'
+    - 'Troubleshoot VM extension failures': 'article/virtual-machines/virtual-machines-linux-extensions-troubleshoot.md'
+    - 'Troubleshoot allocation failures': 'article/virtual-machines/virtual-machines-linux-allocation-failure.md'
     - 'Redeploy VM to a new Azure node': 'articles/virtual-machines/virtual-machines-linux-redeploy-to-new-node.md'
 - Reference:
