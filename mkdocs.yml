@@ -61,8 +61,10 @@ pages:
     - 'Use the CustomScript extension for Linux VMs': 'articles/virtual-machines/virtual-machines-linux-extensions-customscript.md'
     - 'Use the Docker VM extension': 'articles/virtual-machines/virtual-machines-linux-dockerextension.md'
     - 'AzureLogCollector VM extension': 'articles/virtual-machines/virtual-machines-linux-log-collector-extension.md'
-- Networking: 
+- Networking:
+    - 'Azure Networking Overview': 'articles/virtual-networks/virtual-networks-overview.md'
 - Storage:
+    - 'Azure Storage Overview': 'articles/storage/storage-azure-cli.md'
 - Troubleshooting and Support:
     - 'Troubleshoot SSH connections': 'article/virtual-machines/virtual-machines-linux-troubleshoot-ssh-connection.md'
     - 'Troubleshoot application access': 'article/virtual-machines/virtual-machines-linux-troubleshoot-app-connection.md'
