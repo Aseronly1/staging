@@ -30,7 +30,7 @@ pages:
 - Azure VM Concepts:
     - 'Microsoft Azure Subscription and Service Limits, Quotas, and Constraints': 'articles/azure-subscription-service-limits.md'
     - 'Azure Linux Agent User Guide': 'articles/virtual-machines/virtual-machines-linux-agent-user-guide.md'
-    - 'Selecting User Names for Linux on Azure': 'azure/virtual-machines/virtual-machines-linux-usernames.md'
+    - 'Selecting User Names for Linux on Azure': 'articles/virtual-machines/virtual-machines-linux-usernames.md'
     - 'Use root privileges on Azure VMs': 'articles/virtual-machines/virtual-machines-linux-use-root-privileges.md'
     - 'Azure-Endorsed Distributions': 'articles/virtual-machines/virtual-machines-linux-endorsed-distros.md'
     - 'VM Sizes': 'articles/virtual-machines/virtual-machines-linux-sizes.md'
