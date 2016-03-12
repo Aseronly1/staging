@@ -19,6 +19,5 @@
 
 # Azure Compute, Network, and Storage providers for Linux applications under Azure Resource Manager
 
-[AZURE.INCLUDE [learn-about-deployment-models-both-include](../../includes/learn-about-deployment-models-both-include.md)]
 
 [AZURE.INCLUDE [virtual-machines-common-compare-deployment-models](../../includes/virtual-machines-common-compare-deployment-models.md)]
