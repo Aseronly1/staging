@@ -55,12 +55,12 @@ pages:
     - 'Deploy update infrastructure for Red Hat Enterprise Linux': 'articles/virtual-machines/virtual-machines-linux-update-infrastructure-redhat.md'
     - 'Optimize your Linux VM': 'articles/virtual-machines/virtual-machines-linux-optimization.md'
     - VM Extensions: 
-        - 'Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-features.md'
-        - 'Authoring Azure templates with Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-authoring-templates.md'
-        - 'Linux VM extension samples': 'articles/virtual-machines/virtual-machines-linux-extensions-configuration-samples.md'
-        - 'Use the CustomScript extension for Linux VMs': 'articles/virtual-machines/virtual-machines-linux-extensions-customscript.md'
-        - 'Use the Docker VM extension': 'articles/virtual-machines/virtual-machines-linux-dockerextension.md'
-        - 'AzureLogCollector VM extension': 'articles/virtual-machines/virtual-machines-linux-log-collector-extension.md'
+      - 'Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-features.md'
+      - 'Authoring Azure templates with Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-authoring-templates.md'
+      - 'Linux VM extension samples': 'articles/virtual-machines/virtual-machines-linux-extensions-configuration-samples.md'
+      - 'Use the CustomScript extension for Linux VMs': 'articles/virtual-machines/virtual-machines-linux-extensions-customscript.md'
+      - 'Use the Docker VM extension': 'articles/virtual-machines/virtual-machines-linux-dockerextension.md'
+      - 'AzureLogCollector VM extension': 'articles/virtual-machines/virtual-machines-linux-log-collector-extension.md'
 - Networking:
     - 'Azure Networking Overview': 'articles/virtual-network/virtual-networks-overview.md'
 - Storage:
