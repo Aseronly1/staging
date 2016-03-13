@@ -31,7 +31,7 @@ Use Microsoft Azure Virtual Machines, Storage, and Networking together to provid
 3. A Linux VM. [Create it](virtual-machines-linux-quick-create-cli.md).
 4. More information about Linux and Azure, including how to qualify for the Service Level Agreement (SLA). **Read this document, even if you hate legal documents**.
 
-## Logistics: Regions, Distributions, Availability, VM Sizes and Quotas
+## Regions, Distributions, Availability, VM Sizes and Quotas
 ### Regions
 Microsoft Azure resources are distributed across multiple geographical regions around the world.  A "region" represents multiple data centers in a single geographical area.  As of January 1, 2016, this includes: 8 in America, 2 in Europe, 6 in Asia Pacific, 2 in mainland China and 3 in India.  If you want a complete list of all Azure regions, we maintain a list of existing and newly announced regions **[here](https://azure.microsoft.com/regions/)**.  
 
@@ -39,10 +39,10 @@ Microsoft Azure resources are distributed across multiple geographical regions a
 Microsoft Azure supports running a number of popular Linux distributions provided and maintained by a number of partners.  You will find distributions such as CentOS, Debian, Red Hat Enterprise, Ubuntu, FreeBSD and more in the Azure Marketplace. We actively work with various Linux communities to add even more flavors to the Endorsed Distribution list. **[Check out Current Distros](virtual-machines-linux-endorsed-distros.md)** 
 If your preferred Linux distro of choice is not currently present in the gallery, you can "Bring your own Linux" VM by following the guidelines **[on this page.](virtual-machines-linux-create-upload-generic.md)**
 
-## Availability and the Microsoft Azure SLA
+### Availability and the Microsoft Azure SLA
 In order for your deployment to qualify for our 99.95 VM Service Level Agreement, you need to deploy two or more VMs running your workload inside of an availability set. This will ensure your VMs are distributed across multiple fault domains in our data centers as well as deployed onto hosts with different maintenance windows. For full details of our SLA you can view it **[online here](https://azure.microsoft.com/support/legal/sla/virtual-machines/v1_0/)**.  
 
-## VM Sizes and Quotas
+### VM Sizes and Quotas
 When you deploy a VM in Azure, you will select a VM size within one of our series of sizes that is suitable to your workload. The size also affects the processing power, memory and storage capacity of the virtual machine. You are billed based on the amount of time the VM is running and consuming its allocated resources. For a more complete list, see the following article on [Sizes of Virtual Machines](virtual-machines-linux-sizes.md).
 
 Here are some basic guidelines for selecting a VM size from one of our series (A, D, DS, G and GS).
