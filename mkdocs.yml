@@ -13,10 +13,10 @@ pages:
 - Tasks:
     - 'Create a VM and custom environment with CLI': 'articles/virtual-machines/virtual-machines-linux-create-cli-complete.md'
     - 'Create a custom VM': 'articles/virtual-machines/virtual-machines-linux-create-upload-generic.md'
-    - 'Deploy VMs using Azure templates': 'articles/virtual-machines/virtual-machines-linux-cli-deploy-templates.md'
+    - 'Create VMs using Azure templates': 'articles/virtual-machines/virtual-machines-linux-cli-deploy-templates.md'
+    - 'Create common app frameworks using Azure templates': 'articles/virtual-machines/virtual-machines-linux-app-frameworks.md'
     - 'Find VM images': 'articles/virtual-machines/virtual-machines-linux-cli-ps-findimage.md'
     - 'Capture VM images': 'articles/virtual-machines/virtual-machines-linux-capture-image.md'    
-    - 'Deploy common app frameworks using Azure templates': 'articles/virtual-machines/virtual-machines-linux-app-frameworks.md'
     - 'Disable SSH passwords on your VM': 'articles/virtual-machines/virtual-machines-linux-mac-disable-ssh-password-usage.md' 
 - Tutorials:
     - 'Deploy Jupyter notebook': 'articles/virtual-machines/virtual-machines-linux-jupyter-notebook.md'
@@ -48,17 +48,17 @@ pages:
         - 'Prepare another Linux VHD': 'articles/virtual-machines/virtual-machines-linux-create-upload-generic.md'
     - Plan and Manage: 
         - 'Azure infrastructure implementation guidelines': 'articles/virtual-machines/virtual-machines-linux-infrastructure-service-guidelines.md'
-        - 'Plan availability of Linux VMs': 'articles/virtual-machines/virtual-machines-linux-manage-availability.md'
-        - 'Planned maintenance for Azure VMs': 'articles/virtual-machines/virtual-machines-linux-planned-maintenance.md'
-        - 'Schedule Planned Maintenance on VMs': 'articles/virtual-machines/virtual-machines-linux-planned-maintenance-schedule.md'
-        - 'Enable or Disable VM monitoring': 'articles/virtual-machines/virtual-machines-linux-vm-monitoring.md'
+        - 'Plan availability': 'articles/virtual-machines/virtual-machines-linux-manage-availability.md'
+        - 'Planned maintenance': 'articles/virtual-machines/virtual-machines-linux-planned-maintenance.md'
+        - 'Schedule planned maintenance': 'articles/virtual-machines/virtual-machines-linux-planned-maintenance-schedule.md'
+        - 'Enable or disable VM monitoring': 'articles/virtual-machines/virtual-machines-linux-vm-monitoring.md'
         - 'Deploy update infrastructure for Red Hat Enterprise Linux': 'articles/virtual-machines/virtual-machines-linux-update-infrastructure-redhat.md'
         - 'Optimize your Linux VM': 'articles/virtual-machines/virtual-machines-linux-optimization.md'
     - VM Extensions: 
         - 'Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-features.md'
-        - 'Authoring Azure templates with Linux VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-authoring-templates.md'
+        - 'Create Azure templates using VM extensions': 'articles/virtual-machines/virtual-machines-linux-extensions-authoring-templates.md'
         - 'Linux VM extension samples': 'articles/virtual-machines/virtual-machines-linux-extensions-configuration-samples.md'
-        - 'Use the CustomScript extension for Linux VMs': 'articles/virtual-machines/virtual-machines-linux-extensions-customscript.md'
+        - 'Use the CustomScript extension': 'articles/virtual-machines/virtual-machines-linux-extensions-customscript.md'
         - 'Use the Docker VM extension': 'articles/virtual-machines/virtual-machines-linux-dockerextension.md'
         - 'AzureLogCollector VM extension': 'articles/virtual-machines/virtual-machines-linux-log-collector-extension.md'
 - Networking:
