@@ -20,7 +20,17 @@
 # Troubleshooting Azure Linux VM extension failures
 
 
-[AZURE.INCLUDE [virtual-machines-common-extensions-troubleshoot](../../includes/virtual-machines-common-extensions-troubleshoot.md)]
+
+
+## Overview of Azure Resource Manager templates
+
+Azure Resource Manager templates allows you to declaratively specify the Azure IaaS infrastructure in Json language by defining the dependencies between resources.
+
+
+See  [Authoring extension templates](virtual-machines-windows-extensions-authoring-templates.md) to learn more about authoring templates for using Extensions.
+
+In this article we'll learn about troubleshooting some of the common VM extension failures.
+
 
 ## Viewing extension status
 Azure Resource Manager templates can be executed from the  Azure CLI. Once the template is executed, the extension status can be viewed from Azure Resource Explorer or the command line tools.
